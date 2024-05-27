@@ -1,0 +1,20 @@
+.text{
+    text-align: center;
+    padding: 5%;
+    font-size: 17px;
+    background: linear-gradient(grey,blue);
+    color: white;
+}
+
+body{
+    padding: 5%;
+    background: url(https://i.pinimg.com/564x/11/88/7a/11887ae00a829526d17898709632ffd6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    .let span{
+        color: red;
+    }
+
+}
